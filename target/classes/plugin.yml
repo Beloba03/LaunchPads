@@ -1,0 +1,4 @@
+name: LaunchPadPlugin
+version: 1.0
+main: ca.unitedsb.Launchpads.LaunchpadMain
+api-version: 1.19
